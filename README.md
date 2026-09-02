@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Sarah 👋
 
-<!--
-**sarahcore/sarahcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering + Cybersecurity student from Brazil.
 
-Here are some ideas to get you started:
+> learning by doing - turning curiosity into things I can build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Currently studying Computer Engineering and Cybersecurity.
+- 🔧 I enjoy hands-on projects and learning how things work by building them.
+- 💻 Exploring technology, cybersecurity, hardware, and creative projects.
+- 🖤 Into horror, music, cars, and cats.
+
+## Projects
+
+🚧 Projects coming soon — currently building and documenting my work.
+
+## Currently learning
+- C
+- Python
+- Cybersecurity fundamentals
+- Electronics & hardware
+
+---
+✨ Learning, building, breaking things, and figuring out how to fix them.
