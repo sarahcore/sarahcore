@@ -13,6 +13,12 @@ Computer Engineering + Cybersecurity student from Brazil.
 
 ## Projects
 
+### 🐸 Anuroth
+
+A collaborative web development project for a Minecraft server, built with HTML, CSS, and JavaScript. Focused on implementing custom artwork into an interactive website, with full-screen navigation, responsive layouts, and JavaScript interactions.
+
+[View project →](https://github.com/sarahcore/anuroth-website) | [Live website →](https://www.anuroth.com.br)
+
 ### 🐱 Cartola's Midnight Snack
 My first game built with Scratch, created while exploring visual programming and game development. Features scoring, lives, progressive difficulty, character states, collision detection, and a temporary power-up.
 
